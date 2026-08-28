@@ -36,7 +36,7 @@
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true&disable_animations=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell,makefile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Top languages" />
 
 <img height="165" src="https://streak-stats.demolab.com/?user=dependanz&theme=tokyonight&hide_border=true&disable_animations=true" alt="Contribution streak" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dependanz&theme=github_dark&utcOffset=-4" alt="Productive time" />
