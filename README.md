@@ -62,7 +62,6 @@
 | [**gffx**](https://github.com/dependanz/gffx) | A library of PyTorch graphics functions — differentiable rendering primitives usable inside a training loop |
 | [**hippo-campus.io**](https://hippo-campus.io/) | Bring-your-own-repository spaced-repetition dashboard for Markdown decks |
 | [**FocusReader**](https://danzelserrano.com/focusreader) | Browser PDF reader with movable reading guards that keep unread text out of sight |
-| [**comtaken**](https://danzelserrano.com/comtaken) | 274,137 dictionary words as book spines in WebGL, with live domain-availability checks |
 
 <div align="center">
 <sub>More at <a href="https://danzelserrano.com">danzelserrano.com</a> · publications on <a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en">Google Scholar</a></sub>
