@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Speech-driven+3D+facial+animation;PyTorch+graphics+%2B+differentiable+rendering;PhD+student+%40+NJIT" alt="what I work on" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=900&color=7AA2F7&center=true&vCenter=true&width=820&lines=Audio-informed+Geometry+%E2%88%A5+Geometry-informed+Audio;Aligning+sound+and+3D+motion;for+controllable%2C+physics-grounded+synthesis" alt="research tagline" />
 
 # Danzel Serrano
 
-**PhD student @ NJIT** · advised by [Przemyslaw Musialski](https://github.com/pmusialski) · Plainsboro, NJ
+**PhD student @ NJIT** · advised by [Przemyslaw Musialski](https://github.com/pmusialski)
 
-<a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-<a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Research-Speech--driven%203D%20Facial%20Animation-7AA2F7?style=for-the-badge" alt="Research area" />
+<a href="https://danzelserrano.com"><img src="https://img.shields.io/badge/Website-1F2430?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://www.linkedin.com/in/danzel-serrano-542870181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://danzelserrano.com/cv"><img src="https://img.shields.io/badge/CV-7AA2F7?style=for-the-badge&logo=readdotcv&logoColor=1F2430" alt="CV" /></a>
 
 </div>
 
 ---
 
-### 🧠 What I'm doing
+### 🧠 What I'm working on
 
-- 🎓 Doctoral research on **speech-driven 3D facial animation (SD3DFA)** — neural architectures for mapping audio to expressive 3D face motion
-- 🔬 Side interest in **mechanistic interpretability** (activation verbalizers, feature attribution)
-- 🧰 Building [**gffx**](https://github.com/dependanz/gffx) — a library of PyTorch graphics functions
-- 👨‍🏫 TA for **CS 280** (data structures & algorithms) at NJIT
-- 🕹️ Long tail of C/C++ graphics work, including Quake / Quake 4 mod projects
+- 🔊 **Audio ∥ geometry.** My research program is the two-way street between sound and 3D motion — audio that informs geometry, geometry that informs audio — aimed at synthesis that stays controllable and physics-grounded
+- 🎓 **Dissertation:** speech-driven 3D facial animation. Most recently, disentangled phoneme–prosody mapping so the *what* and the *how* of speech can be steered independently — [ACM SIGGRAPH Posters '25](https://danzelserrano.com)
+- 🌊 **Also in the program:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
+- 🎙️ **Sensorium AI** — real-time voice synthesis from disentangled speech factors, for performance and accessibility
+- 🧰 **[gffx](https://github.com/dependanz/gffx)** — a library of PyTorch graphics functions
 
 ### 🛠️ Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,opengl,blender,matlab,latex,git,linux,docker,vscode&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,java,matlab,unity,threejs,nextjs,blender,latex,git,linux,aws&theme=dark" alt="tech stack" />
 </div>
 
 ---
@@ -35,13 +35,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&exclude_repo=Quake4ModSP2020,IT266Quake2Mod" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true&disable_animations=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell&disable_animations=true" alt="Top languages" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=dependanz&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dependanz&theme=github_dark" alt="Most commit language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dependanz&theme=github_dark&utcOffset=-4" alt="Productive time" />
+<img height="165" src="https://streak-stats.demolab.com/?user=dependanz&theme=tokyonight&hide_border=true&disable_animations=true" alt="Contribution streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dependanz&theme=github_dark&utcOffset=-4" alt="Productive time" />
 
 </div>
 
@@ -59,14 +57,15 @@
 
 ### 📌 Featured work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**gffx**](https://github.com/dependanz/gffx) | A library of PyTorch graphics functions — differentiable rendering primitives usable inside training loops | Python · PyTorch |
-| [**Quake4ModSP2020**](https://github.com/dependanz/Quake4ModSP2020) | Single-player Quake 4 mod — gameplay and engine-level modifications | C++ |
-| [**IT266Quake2Mod**](https://github.com/dependanz/IT266Quake2Mod) | Quake 2 mod built for IT266 — AI and weapon systems | C |
+| Project | What it is |
+| --- | --- |
+| [**gffx**](https://github.com/dependanz/gffx) | A library of PyTorch graphics functions — differentiable rendering primitives usable inside a training loop |
+| [**hippo-campus.io**](https://hippo-campus.io/) | Bring-your-own-repository spaced-repetition dashboard for Markdown decks |
+| [**FocusReader**](https://danzelserrano.com/focusreader) | Browser PDF reader with movable reading guards that keep unread text out of sight |
+| [**comtaken**](https://danzelserrano.com/comtaken) | 274,137 dictionary words as book spines in WebGL, with live domain-availability checks |
 
 <div align="center">
-<sub>Cards render live from the GitHub API — if one is blank, it's the upstream service, not your account.</sub>
+<sub>More at <a href="https://danzelserrano.com">danzelserrano.com</a> · publications on <a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en">Google Scholar</a></sub>
 </div>
 
 <!--
