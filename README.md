@@ -17,7 +17,7 @@
 
 ### 🧠 What I'm working on
 
-- 🔊 **Audio ∥ geometry.** My research program is the two-way street between sound and 3D motion — audio that informs geometry, geometry that informs audio — aimed at synthesis that stays controllable and physics-grounded
+- 🔊 **Audio ↔ geometry.** My research program is the two-way street between sound and 3D motion — audio that informs geometry, geometry that informs audio — aimed at synthesis that stays controllable and physics-grounded
 - 🎓 **Dissertation:** speech-driven 3D facial animation. Most recently, disentangled phoneme–prosody mapping so the *what* and the *how* of speech can be steered independently — [ACM SIGGRAPH Posters '25](https://danzelserrano.com)
 - 🌊 **Also in the program:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
 - 🎙️ **Sensorium AI** — real-time voice synthesis from disentangled speech factors, for performance and accessibility
@@ -36,7 +36,7 @@
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true&disable_animations=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell&disable_animations=true" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Top languages" />
 
 <img height="165" src="https://streak-stats.demolab.com/?user=dependanz&theme=tokyonight&hide_border=true&disable_animations=true" alt="Contribution streak" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dependanz&theme=github_dark&utcOffset=-4" alt="Productive time" />
