@@ -26,7 +26,9 @@
 ### 🛠️ Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,java,matlab,unity,threejs,nextjs,blender,latex,git,linux,aws&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,rust,java,matlab,unity,threejs,nextjs,blender,latex,git,linux,aws&theme=dark" alt="tech stack" />
+<br />
+<img src="https://img.shields.io/badge/Lean_4-1F2430?style=for-the-badge&logoColor=white" alt="Lean 4" />
 </div>
 
 ---
