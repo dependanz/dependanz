@@ -26,7 +26,7 @@
 ### 🛠️ Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,rust,java,matlab,unity,threejs,nextjs,blender,latex,git,linux,aws&perline=6&theme=dark" alt="tech stack" /><img height="48" src="https://raw.githubusercontent.com/dependanz/dependanz/main/assets/lean-4.svg" alt="Lean 4" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,rust,java,matlab,unity,threejs,nextjs,blender,latex,git,linux,aws&perline=6&theme=dark" alt="tech stack" /><img height="48" src="https://raw.githubusercontent.com/dependanz/dependanz/main/assets/lean-4.svg?v=2" alt="Lean 4" />
 </div>
 
 ---
