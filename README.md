@@ -43,13 +43,13 @@
 
 </div>
 
-### 🐍 Contribution graph
+### 🧊 Contribution calendar
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dependanz/dependanz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dependanz/dependanz/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dependanz/dependanz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dependanz/dependanz/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dependanz/dependanz/main/profile-3d-contrib/profile-green.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/dependanz/dependanz/main/profile-3d-contrib/profile-night-view.svg" />
 </picture>
 </div>
 
