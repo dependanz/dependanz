@@ -7,7 +7,7 @@
 **PhD student @ NJIT** · advised by [Przemyslaw Musialski](https://github.com/pmusialski)
 
 <a href="https://danzelserrano.com"><img src="https://img.shields.io/badge/Website-1F2430?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.linkedin.com/in/danzel-serrano-542870181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://danzelserrano.com/cv"><img src="https://img.shields.io/badge/CV-7AA2F7?style=for-the-badge&logo=readdotcv&logoColor=1F2430" alt="CV" /></a>
 
