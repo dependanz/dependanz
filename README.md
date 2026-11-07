@@ -44,10 +44,12 @@
 ### 📊 GitHub activity
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=420&line_height=28&text_bold=false&text_color=C9D1D9&icon_color=7AA2F7" />
-  <img width="420" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=420&line_height=28&text_bold=false&text_color=1F2328&icon_color=4F70B5" alt="Public GitHub activity: commits, pull requests, and issues" />
-</picture>
+  <a href="https://github.com/dependanz?tab=repositories#gh-dark-mode-only">
+    <img width="330" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=330&line_height=28&text_bold=false&text_color=C9D1D9&icon_color=7AA2F7#gh-dark-mode-only" alt="Public GitHub activity: commits, pull requests, and issues" />
+  </a>
+  <a href="https://github.com/dependanz?tab=repositories#gh-light-mode-only">
+    <img width="330" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=330&line_height=28&text_bold=false&text_color=1F2328&icon_color=4F70B5#gh-light-mode-only" alt="Public GitHub activity: commits, pull requests, and issues" />
+  </a>
 </div>
 
 ---
