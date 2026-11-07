@@ -44,12 +44,11 @@
 ### 📊 GitHub activity
 
 <div align="center">
-  <a href="https://github.com/dependanz?tab=repositories#gh-dark-mode-only">
-    <img width="330" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=330&line_height=28&text_bold=false&text_color=C9D1D9&icon_color=7AA2F7#gh-dark-mode-only" alt="Public GitHub activity: commits, pull requests, and issues" />
-  </a>
-  <a href="https://github.com/dependanz?tab=repositories#gh-light-mode-only">
-    <img width="330" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide=stars,contribs&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&disable_animations=true&card_width=330&line_height=28&text_bold=false&text_color=1F2328&icon_color=4F70B5#gh-light-mode-only" alt="Public GitHub activity: commits, pull requests, and issues" />
-  </a>
+
+<a href="https://github.com/dependanz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&hide_rank=true&hide=contribs&custom_title=GitHub%20stats&card_width=330&disable_animations=true" alt="GitHub stats: stars, commits, pull requests, and issues" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/dependanz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Languages&card_width=330&hide=php,html,css,shell,makefile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Repository language breakdown" /></a>
+
 </div>
 
 ---
