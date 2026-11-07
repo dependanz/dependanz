@@ -36,7 +36,9 @@
 ### 🛠️ Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs,rust,java,matlab,unity,threejs,nextjs&perline=6&theme=dark" alt="tech stack" /><br /><img src="https://skillicons.dev/icons?i=blender,latex,git,linux,aws&perline=6&theme=dark" alt="tech stack cont" /><img height="48" src="https://raw.githubusercontent.com/dependanz/dependanz/main/assets/lean-4.svg?v=3" alt="Lean 4" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,cs&perline=6&theme=dark" alt="Python, PyTorch, TensorFlow, C++, C, and C#" /><a href="https://openai.com/codex/"><img height="48" src="assets/toolbox-codex.svg" alt="Codex" title="Codex" /></a><br />
+<img src="https://skillicons.dev/icons?i=rust,java,matlab,unity,threejs,nextjs&perline=6&theme=dark" alt="Rust, Java, MATLAB, Unity, Three.js, and Next.js" /><a href="https://claude.ai/"><img height="48" src="assets/toolbox-claude.svg" alt="Claude" title="Claude" /></a><br />
+<img src="https://skillicons.dev/icons?i=blender,latex,git,linux,aws&perline=6&theme=dark" alt="Blender, LaTeX, Git, Linux, and AWS" /><img height="48" src="https://raw.githubusercontent.com/dependanz/dependanz/main/assets/lean-4.svg?v=3" alt="Lean 4" /><a href="https://huggingface.co/"><img height="48" src="assets/toolbox-huggingface.svg" alt="Hugging Face" title="Hugging Face" /></a>
 </div>
 
 ---
