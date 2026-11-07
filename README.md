@@ -19,9 +19,19 @@
 
 - 🔊 **Audio ↔ geometry.** My research program is the two-way street between sound and 3D motion — audio that informs geometry, geometry that informs audio — aimed at synthesis that stays controllable and physics-grounded
 - 🎓 **Dissertation:** speech-driven 3D facial animation. Most recently, disentangled phoneme–prosody mapping so the *what* and the *how* of speech can be steered independently — [ACM SIGGRAPH Posters '25](https://danzelserrano.com)
-- 🌊 **Also in the program:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
+- 🌊 **Broader research:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
 - 🎙️ **Sensorium AI** — real-time voice synthesis from disentangled speech factors, for performance and accessibility
-- 🧰 **[gffx](https://github.com/dependanz/gffx)** — a library of PyTorch graphics functions
+- 🧰 **[gffx](https://github.com/dependanz/gffx)** — A graphics, geometry, and mesh toolkit with differentiable operations. Requires only Python and PyTorch.
+- 🥤 **[colabcola](https://github.com/dependanz/colabcola)** — A toolkit for connecting local Python workflows to Google Colab — [Website](https://colabcola.com).
+
+### 📌 Featured work
+
+| Project | What it is |
+| --- | --- |
+| [**Colab Cola**](https://github.com/dependanz/colabcola) · [Website](https://colabcola.com) | Run reproducible Python jobs on Google Colab from your terminal. |
+| [**gffx**](https://github.com/dependanz/gffx) | A graphics, geometry, and mesh toolkit with differentiable operations. Requires only Python and PyTorch. |
+| [**hippo-campus.io**](https://hippo-campus.io/) | Bring-your-own-repository spaced-repetition dashboard for Markdown decks |
+| [**FocusReader**](https://danzelserrano.com/focusreader) | Browser PDF reader with movable reading guards that keep unread text out of sight |
 
 ### 🛠️ Toolbox
 
@@ -31,27 +41,17 @@
 
 ---
 
-### 📊 Development health
+### 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true&disable_animations=true" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=php,html,css,shell,makefile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Top languages" />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=dependanz&theme=tokyonight&hide_border=true&disable_animations=true" alt="Contribution streak" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dependanz&theme=github_dark&utcOffset=-4" alt="Productive time" />
+<a href="https://github.com/dependanz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api?username=dependanz&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&hide_rank=true&hide=contribs&custom_title=GitHub%20stats&card_width=330&disable_animations=true" alt="GitHub stats: stars, commits, pull requests, and issues" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/dependanz?tab=repositories"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dependanz&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&custom_title=Languages&card_width=330&hide=php,html,css,shell,makefile,objective-c&size_weight=0.5&count_weight=0.5&exclude_repo=Quake4ModSP2020,IT266Quake2Mod&disable_animations=true" alt="Repository language breakdown" /></a>
 
 </div>
 
 ---
-
-### 📌 Featured work
-
-| Project | What it is |
-| --- | --- |
-| [**gffx**](https://github.com/dependanz/gffx) | A library of PyTorch graphics functions — differentiable rendering primitives usable inside a training loop |
-| [**hippo-campus.io**](https://hippo-campus.io/) | Bring-your-own-repository spaced-repetition dashboard for Markdown decks |
-| [**FocusReader**](https://danzelserrano.com/focusreader) | Browser PDF reader with movable reading guards that keep unread text out of sight |
 
 <div align="center">
 <sub>More at <a href="https://danzelserrano.com">danzelserrano.com</a> · publications on <a href="https://scholar.google.com/citations?user=L44bua4AAAAJ&hl=en">Google Scholar</a></sub>
