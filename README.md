@@ -19,9 +19,10 @@
 
 - 🔊 **Audio ↔ geometry.** My research program is the two-way street between sound and 3D motion — audio that informs geometry, geometry that informs audio — aimed at synthesis that stays controllable and physics-grounded
 - 🎓 **Dissertation:** speech-driven 3D facial animation. Most recently, disentangled phoneme–prosody mapping so the *what* and the *how* of speech can be steered independently — [ACM SIGGRAPH Posters '25](https://danzelserrano.com)
-- 🌊 **Also in the program:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
+- 🌊 **Broader research:** procedural audio models of environmental sounds, physics-based sound simulation, and implicit neural representations — including [HOSC](https://danzelserrano.com), a periodic activation with saturation control
 - 🎙️ **Sensorium AI** — real-time voice synthesis from disentangled speech factors, for performance and accessibility
 - 🧰 **[gffx](https://github.com/dependanz/gffx)** — A graphics, geometry, and mesh toolkit with differentiable operations. Requires only Python and PyTorch.
+- 🥤 **[colabcola](https://github.com/dependanz/colabcola)** — A toolkit for connecting local Python workflows to Google Colab — [Website](https://colabcola.com).
 
 ### 📌 Featured work
 
